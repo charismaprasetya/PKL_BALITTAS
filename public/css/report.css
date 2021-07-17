@@ -1,0 +1,33 @@
+.bg{
+    background-color: 	#DCDCDC;
+}
+.row{
+    margin-left: auto;
+}
+.row-main{
+    height: 50%;
+}
+
+.col-padding{
+    padding-left: 32px;
+    padding-top: 16px;
+
+}
+.sidebar {
+    background-color: #fff;
+}
+
+.main-row {
+    height: 50%;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+  }
+  </style>
